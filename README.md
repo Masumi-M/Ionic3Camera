@@ -20,4 +20,7 @@ This is an sample project to know how to use Camera in Ionic.
 9. Add preview image by referencing `photoURI`.
 
 ### Build to iOS
-10. Build the app by adding the platform(`ionic cordova platform add ios`) and building it (`ionic cordova build ios`).
+10. Build the app by adding the platform(`ionic cordova platform add ios`) and building it (`ionic cordova build ios`). Don't forget to add `Privacy - Camera Usage Description` inside Info.plist.
+
+<img src="/info-plist.png">
+
